@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 def greetings():
- 
+ 	"""new comment"""
 	print "Hello RESIF people!"
 
 def repeat(x, callback):
