@@ -3,6 +3,7 @@ def greetings():
  	"""new comment"""
 	print "Hello RESIF people!"
         print "oui on est vendredi"
+        print "new modif 10:53"
 
 def repeat(x, callback):
 	for _ in range(x):
